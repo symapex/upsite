@@ -13,6 +13,8 @@ sites:
   #  url: https://thissitedoesnotexist.koj.co
   - name: carpetcleanersoakland.com
     url: https://carpetcleanersoakland.com
+  - name: carpetcleanersbostonma.com
+    url: https://carpetcleanersbostonma.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
