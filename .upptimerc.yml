@@ -320,6 +320,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  customBodyHtml: "<h1>Monitored Websites : </h1>"
 #  js: "$(function() { console.log( 'ready!' ); });"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
