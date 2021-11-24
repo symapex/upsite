@@ -314,7 +314,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upsite
   introTitle: "**Upsite** is the open-source uptime monitor and status page of Symple Market, powered entirely by GitHub."
-  introMessage: This is the status page which uses **real-time** data from [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime) Monitored Websites : 
+  introMessage: This is the status page which uses **real-time** data from [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
