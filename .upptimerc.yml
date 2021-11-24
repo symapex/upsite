@@ -300,7 +300,11 @@ sites:
   - name: GMB Power 
     url: https://gmbpower.com/     
   - name: Postcard Payments 
-    url: https://postcardpayments.com/     
+    url: https://postcardpayments.com/   
+  - name: Just Retribution  
+    url: https://justretribution.com/   
+  - name: Symple Market US
+    url: https://symplemarket.us/    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
