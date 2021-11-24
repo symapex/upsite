@@ -111,8 +111,78 @@ sites:
   - name: Accel Translate
     url: https://accel-translate.com/
 
-
-
+  - name: Grand Tunity 
+    url: https://grandtunity.com/ 
+  - name: Piano Precision 
+    url: https://piano-precision.com/ 
+  - name: Syncphony Seattle 
+    url: https://syncphonyseattle.com/ 
+  - name: Seattle Magnitune 
+    url: https://seattlemagnitune.com/ 
+  - name: Key Tuning Seattle 
+    url: https://keytuningseattle.com/ 
+  - name: Lawn Workx 
+    url: https://lawnworkx.com/
+  - name: Green Turf Professionals 
+    url: https://greenturfprofessionals.com/
+  - name: Tree and Lawn 
+    url: https://treeandlawnco.com/
+  - name: Garden View Landscapers 
+    url: https://gardenviewlandscapers.com/
+  - name: Green View AZ 
+    url: https://greenviewaz.com/
+  - name: Landscape Topia 
+    url: https://landscape-topia.com/ 
+  - name: Giveme Green 
+    url: https://giveme-green.com/ 
+  - name: Decor and Scape 
+    url: https://decorandscape.com/ 
+  - name: The Great Gardens 
+    url: https://thegreatgardens.com/ 
+  - name: Environ Work 
+    url: https://environwork.com/ 
+  - name: Concrete Tree 
+    url: https://concretetree.com/ 
+  - name: Bricktically 
+    url: https://bricktically.com/ 
+  - name: Selective Concrete 
+    url: https://selectiveconcrete.com/ 
+  - name: Hard Stack Pro 
+    url: https://hardstackpro.com/ 
+  - name: Concrete Elementz 
+    url: https://concreteelementz.com/ 
+  - name: AZ Brick Frames 
+    url: https://azbrickframes.com/ 
+  - name: Concrete Connected 
+    url: https://concrete-connected.com/ 
+  - name: Brick Zone Works 
+    url: https://brickzoneworks.com/ 
+  - name: Superior Surface 
+    url: https://superior-surface.com/ 
+  - name: Rigid Ground Work 
+    url: https://rigidgroundwork.com/ 
+  - name: The AZ Clean Expert 
+    url: https://theazcleanexpert.com/ 
+  - name: The Weekly Squeaky Clean 
+    url: https://theweeklysqueakyclean.com/ 
+  - name: Sensitive Clean 
+    url: https://sensitive-clean.com/ 
+  - name: Bring Back Clean 
+    url: https://bringbackclean.com/ 
+  - name: Scrubit Clean 
+    url: https://scrubit-clean.com/ 
+  - name: Is Green Scene  
+    url: https://isgreen-scene.com/  
+  - name: Absolute Landscape Solutions 
+    url: https://absolutelandscapesolutions.com/
+  - name: Blooming Pots Landscaping 
+    url: https://bloomingpotslandscaping.com/
+  - name: Alpha Landscaping 
+    url: https://alpha-landscaping.com/
+  - name: Earth Works Lawn Cares 
+    url: https://earthworkslawncares.com/     
+    
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
