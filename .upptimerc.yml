@@ -5,64 +5,63 @@ repo: upsite # The name of this repository
 sites:
   - name:  Landscapers Fortworth
   url: https://landscapersfortworth.com/
-- name:  Landscapers Oakland
+  - name:  Landscapers Oakland
   url: https://landscapersoakland.com/
-- name:  Audiohive
+  - name:  Audiohive
   url: https://audiohivetx.com/
-- name:  Sound Phonic
+  - name:  Sound Phonic
   url: https://soundphonicca.com/
-- name:  Bitztream
+  - name:  Bitztream
   url: https://bitztreamnc.com/
-- name:  Audio Rific
+  - name:  Audio Rific
   url: https://audiorificma.com/
-- name:  Boosted Audio
+  - name:  Boosted Audio
   url: https://boostedaudioor.com/
-- name:  Audio Watch
+  - name:  Audio Watch
   url: https://audiowatchor.com/
-- name:  Audio Hive
+  - name:  Audio Hive
   url: https://audiohivetx.com/
-- name:  Steel Cradle Phoenix
+  - name:  Steel Cradle Phoenix
   url: https://steelcradlephoenix.com/
-- name:  Restorativ Phoenix
+  - name:  Restorativ Phoenix
   url: https://restorativ-phoenix.com/
-- name:  House Glitz Nashville
+  - name:  House Glitz Nashville
   url: https://houseglitznashville.com/
-- name:  Flagstone Santa Ana
+  - name:  Flagstone Santa Ana
   url: https://flagstonesantaana.com/
-- name:  Rock Rough Phoenix
+  - name:  Rock Rough Phoenix
   url: https://rockroughphoenix.com/
-- name:  Gooyer Well Repairs
+  - name:  Gooyer Well Repairs
   url: https://gooyerwellrepairsomaha.com/
-- name:  Fenrails Tampa
+  - name:  Fenrails Tampa
   url: https://fenrails-tampa.com/
-- name:  Ace Windows Henderson
+  - name:  Ace Windows Henderson
   url: https://acewindowshenderson.com/
-- name:  Fortres Doors Oakland
+  - name:  Fortres Doors Oakland
   url: https://fortressdoorsoakland.com/
-- name:  Bugbuster Austin
+  - name:  Bugbuster Austin
   url: https://bugbusteraustin.com/
-- name:  The Flooring Guys Phoenix
+  - name:  The Flooring Guys Phoenix
   url: https://theflooringguysphoenix.com/
-
-- name:  Advise Pilot Cincinnati
+  - name:  Advise Pilot Cincinnati
   url: https://advisepilotcincinnati.com/
-- name:  Audio Key Kansas
+  - name:  Audio Key Kansas
   url: https://audiokeykansas.com/
-- name:  Audio Loom Sandiego
+  - name:  Audio Loom Sandiego
   url: https://audioloomsandiego.com/
-- name:  Cinematron Los Angeles
+  - name:  Cinematron Los Angeles
   url: https://cinematronlosangeles.com/
-- name:  Landary Charlotte
+  - name:  Landary Charlotte
   url: https://landarycharlotte.com/
-- name:  Masonly Stockton
+  - name:  Masonly Stockton
   url: https://masonlystockton.com/
-- name:  Staff Mobile Cincinnati
+  - name:  Staff Mobile Cincinnati
   url: https://staffmobilecincinnati.com/
-- name:  Steel Croft Phoenix
+  - name:  Steel Croft Phoenix
   url: https://steelcroftphoenix.com/
-- name:  Telephoniq Las Vegas
+  - name:  Telephoniq Las Vegas
   url: https://telephoniqlasvegas.com/
-- name:  Translatium-houston
+  - name:  Translatium-houston
   url: https://translatium-houston.com/
 
 status-website:
