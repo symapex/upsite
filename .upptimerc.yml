@@ -3,16 +3,115 @@ owner: symapex # Your GitHub organization or username, where this repository liv
 repo: upsite # The name of this repository
 
 sites:
-  - name: LandscapersFortworth
+  - name: Landscapers Fortworth
     url: https://landscapersfortworth.com/
-  - name: LandscapersOakland
+  - name: Landscapers Oakland
     url: https://landscapersoakland.com/
   - name: Audiohive
     url: https://audiohivetx.com/
-  - name: SoundPhonic
+  - name: Sound Phonic
     url: https://soundphonicca.com/
   - name: Bitztream
     url: https://bitztreamnc.com/
+  - name: Audio Rific
+    url: https://audiorificma.com/
+  - name: Boosted Audio
+    url: https://boostedaudioor.com/
+  - name: Audio Watch
+    url: https://audiowatchor.com/
+  - name: Meat Market Phoenix
+    url: https://meatmarketphoenix.com/
+  - name: Steel Cradle Phoenix
+    url: https://steelcradlephoenix.com/
+  - name: Restorativ Phoenix
+    url: https://restorativ-phoenix.com/
+  - name: House Glitz Nashville
+    url: https://houseglitznashville.com/
+  - name: Flagstone Santa Ana
+    url: https://flagstonesantaana.com/
+  - name: Rock Rough Phoenix
+    url: https://rockroughphoenix.com/
+  - name: Gooyer Well Repairs
+    url: https://gooyerwellrepairsomaha.com/
+  - name: Fenrails Tampa
+    url: https://fenrails-tampa.com/
+  - name: Ace Windows Henderson
+    url: https://acewindowshenderson.com/
+  - name: Fortres Doors Oakland
+    url: https://fortressdoorsoakland.com/
+  - name: Bugbuster Austin
+    url: https://bugbusteraustin.com/
+  - name: The Flooring Guys Phoenix
+    url: https://theflooringguysphoenix.com/
+  
+  - name: Advise Pilot Cincinnati
+    url: https://advisepilotcincinnati.com/
+  - name: Audio Key Kansas
+    url: https://audiokeykansas.com/
+  - name: Audio Loom Sandiego
+    url: https://audioloomsandiego.com/
+  - name: Cinematron Los Angeles
+    url: https://cinematronlosangeles.com/
+  - name: Landary Charlotte
+    url: https://landarycharlotte.com/
+  - name: Masonly Stockton
+    url: https://masonlystockton.com/
+  - name: Staff Mobile Cincinnati
+    url: https://staffmobilecincinnati.com/
+  - name: Steel Croft Phoenix
+    url: https://steelcroftphoenix.com/
+  - name: Telephoniq Las Vegas
+    url: https://telephoniqlasvegas.com/
+  - name: Translatium Houston
+    url: https://translatium-houston.com/
+    
+  - name: Martinez Garcia Law
+    url: https://martinezgarcialawmiami.com/
+  - name: Class Deck Miami
+    url: https://classdeckmiami.com/
+  - name: Local Arquitectos Miami
+    url: https://localarquitectosmiami.com/
+  - name: Notario Publico San Antonio
+    url: https://notariopublicosanantonio.com/
+  - name: Ingles Genie San Antonio
+    url: https://inglesgeniesanantonio.com/
+  - name: Arquitecto San Antonio
+    url: https://arquitectosanantonio.com/
+  - name: English Mill Phoenix
+    url: https://englishmillphoenix.com/
+  - name: Arquitecto Phoenix
+    url: https://arquitectophoenix.com/
+  - name: Arquitecto Houston
+    url: https://arquitectohouston.com/
+  - name: Lab Fluent Houston
+    url: https://labfluenthouston.com/
+    
+  - name: Cinemusbend
+    url: https://cinemusbend.com/  
+  - name: Real Time Digital Kansas
+    url: https://realtimedigitalkansas.com/    
+  - name: Willar Translation Tampa
+    url: https://willartranslationtampa.com/
+  - name: Tidy Culture Mesa
+    url: https://tidyculturemesa.com/
+  - name: Phone Bolt Colorado
+    url: https://phoneboltcolorado.com/
+  - name: Phone Start Systems
+    url: https://phonestartsystems.com/
+  - name: Welly Repairs
+    url: https://wellyrepairs.com/    
+  - name: Home Flix Chill
+    url: https://homeflixchill.com/
+  - name: Steel Grade Tusk
+    url: https://steelgradetusk.com/
+  - name: Miami Home Cinema
+    url: https://miamihomecinema.com/
+  - name: Floor Bright Cleaning
+    url: https://floorbrightcleaning.com/
+  - name: Accel Translate
+    url: https://accel-translate.com/
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
