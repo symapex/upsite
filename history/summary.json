@@ -2542,19 +2542,19 @@
     "url": "https://palmvalleymontessori.com/",
     "icon": "https://favicons.githubusercontent.com/palmvalleymontessori.com",
     "slug": "palm-valley-montessori",
-    "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 1302,
+    "timeDay": 1302,
+    "timeWeek": 1302,
+    "timeMonth": 1302,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2021-11-24": 24
+      "2021-11-24": 44
     }
   },
   {
