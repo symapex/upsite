@@ -180,8 +180,127 @@ sites:
   - name: Alpha Landscaping 
     url: https://alpha-landscaping.com/
   - name: Earth Works Lawn Cares 
-    url: https://earthworkslawncares.com/     
+    url: https://earthworkslawncares.com/
     
+  - name: Prism Carpet Cleaning 
+    url: https://prismcarpetcleaningtx.com/  
+  - name: Get Fence Lab 
+    url: https://getfencelab.com/  
+  - name: Precise Word AZ 
+    url: https://precisewordaz.com/  
+  - name: Wellspring Tampa 
+    url: https://wellspringtampa.com/   
+  - name: Tidy Helpers CA 
+    url: https://tidyhelpersca.com/  
+  - name: Cleanaholic 
+    url: https://cleanaholictn.com/  
+  - name: Tidy Cleaners 
+    url: https://tidycleanerstx.com/  
+  - name: Cleanary Sandiego 
+    url: https://cleanarysandiego.com/  
+  - name: Cleanwagon Ohio 
+    url: https://cleanwagonohio.com/  
+  - name: Cleanasium  
+    url: https://cleanasium.com/  
+  - name: Scrub Clean Seattle 
+    url: https://scrubcleanseattle.com/  
+  - name: Clean Standards 
+    url: https://clean-standards.com/  
+  - name: Clean Wise  
+    url: https://cleanwisenv.com/  
+  - name: Tidy Train Cleaners 
+    url: https://tidytraincleaners.com/  
+  - name: Clean Kind  
+    url: https://cleankindphx.com/   
+  - name: Dragues Well Repair 
+    url: https://dragueswellrepair.com/  
+  - name: Well Repairman 
+    url: https://wellrepairman.com/   
+  - name: Agati Well Repairs 
+    url: https://agatiwellrepairs.com/  
+  - name: Sprint Fence 
+    url: https://sprintfence.com/  
+  - name: The Iron and Wood 
+    url: https://theironandwood.com/  
+  - name: Garden Gate Fence 
+    url: https://gardengate-fence.com/  
+  - name: Brickyard Fence 
+    url: https://brickyardfence.com/ 
+  - name: Cedar Built Floors 
+    url: https://cedarbuiltfloors.com/
+  - name: Jacobs Floors 
+    url: https://jacobsfloorstx.com/
+  - name: Hammond Floors 
+    url: https://hammondfloors.com/
+  - name: Patio Pros Elpaso 
+    url: https://patioproselpaso.com/
+  - name: Boon Wood Flooring 
+    url: https://boonwoodflooring.com/
+  - name: Pestero Bug Fortworth 
+    url: https://pesterobugfortworth.com/
+  - name: Bugmode Pest Control 
+    url: https://bugmodepestcontrol.com/
+  - name: Pest Busters 
+    url: https://pestbustersnc.com/ 
+  - name: Crycket Pest Control 
+    url: https://crycketpestcontrol.com/
+  - name: Pest Scout Pros 
+    url: https://pestscoutpros.com/
+  - name: Carpetomatic 
+    url: https://carpetomatic.com/
+  - name: Cleanaroo 
+    url: https://cleanaroonv.com/ 
+  - name: Scrubble Carpet Cleaners 
+    url: https://srubblecarpetcleaners.com/
+  - name: True Word Translation 
+    url: https://truewordtranslation.com/
+  - name: Global Translation 
+    url: https://globaltranslationsrvs.com/
+  - name: Simply Fluent 
+    url: https://simply-fluent.com/
+  - name: Catranslation Pros 
+    url: http://catranslationpros.com/
+  - name: Thrive Translation 
+    url: http://thrivetranslation.com/
+  - name: Marble Wood 
+    url: https://marblewoodca.com/
+  - name: Fresh Auto 
+    url: https://fresh-auto.com/
+  - name: Shiny Car Clean 
+    url: https://shinycarclean.com/
+  - name: Arborcare Ohio 
+    url: https://arborcareohio.com/
+  - name: Everlast Deck 
+    url: https://everlastdeck.com/ 
+  - name: My Drywall Guy 
+    url: https://my-drywall-guy.com/ 
+  - name: Speedy Drywall 
+    url: https://speedy-drywall.com/ 
+  - name: Mr Drywall TX 
+    url: https://mrdrywalltx.com/
+  - name: Wall Doctor Denver 
+    url: https://walldoctordenver.com/ 
+  - name: Speedy Auto Clean 
+    url: https://speedyautoclean.com/     
+
+  - name: Luxen Works 
+    url: https://luxenworks.com/
+  - name: Childrens Care AZ Website 
+    url: http://childrenscareaz.org/   
+  - name: Childrens Care AZ Backend 
+    url: https://dev.childrenscareaz.org/   
+  - name: Task Take Out 
+    url: https://tasktakeout.com/
+  - name: Palm Valley Montessori 
+    url: https://palmvalleymontessori.com/   
+  - name: Golferzen 
+    url: https://golferzen.com/ 
+  - name: Symplemarket 
+    url: https://symplemarket.com/
+  - name: GMB Power 
+    url: https://gmbpower.com/     
+  - name: Postcard Payments 
+    url: https://postcardpayments.com/     
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
