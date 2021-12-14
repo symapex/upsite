@@ -5,23 +5,23 @@ repo: upsite # The name of this repository
 sites:
   - name: Landscapers Fortworth
     url: https://landscapersfortworth.com/
-    - name: Aesthetic Landscaping
+  - name: Aesthetic Landscaping
       url: https://aestheticlandscapingcom.com/
-    - name: Smart Garden Solutions
+  - name: Smart Garden Solutions
       url: https://smartgardensolutions.net/ 
-    - name: Green Thumb Landscaping
+  - name: Green Thumb Landscaping
       url: https://greenthumb-landscape.com/   
-    - name: Lawn Rescue Texas
+  - name: Lawn Rescue Texas
       url: https://lawnRescuetexas.com/  
   - name: Landscapers Oakland
     url: https://landscapersoakland.com/
-    - name: Clean Edge Lawns
+  - name: Clean Edge Lawns
       url: https://cleanedgelawns.com/
-    - name: Control Ground Landscapers
+  - name: Control Ground Landscapers
       url: https://controlgroundlandscapers.com/
-    - name: Great Oakland Landscaping
+  - name: Great Oakland Landscaping
       url: https://greatoaklandscaping.com/ 
-    - name: Wiles Outdoor Lawn Care
+  - name: Wiles Outdoor Lawn Care
       url: https://wilesoutdoorlawncare.com/
   - name: Audiohive
     url: https://audiohivetx.com/
