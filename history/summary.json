@@ -23,36 +23,38 @@
     "icon": "https://favicons.githubusercontent.com/landscapersoakland.com",
     "slug": "landscapers-oakland",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 612,
     "timeDay": 371,
     "timeWeek": 667,
     "timeMonth": 612,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 12
+    }
   },
   {
     "name": "Audiohive",
     "url": "https://audiohivetx.com/",
     "icon": "https://favicons.githubusercontent.com/audiohivetx.com",
     "slug": "audiohive",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 565,
-    "timeDay": 327,
-    "timeWeek": 653,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 558,
+    "timeDay": 316,
+    "timeWeek": 609,
+    "timeMonth": 558,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-12-14": 34,
+      "2021-12-14": 37,
       "2021-11-26": 59
     }
   },
@@ -260,17 +262,19 @@
     "icon": "https://favicons.githubusercontent.com/gooyerwellrepairsomaha.com",
     "slug": "gooyer-well-repairs",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 477,
     "timeDay": 390,
     "timeWeek": 547,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 11
+    }
   },
   {
     "name": "Fenrails Tampa",
@@ -313,18 +317,20 @@
     "url": "https://fortressdoorsoakland.com/",
     "icon": "https://favicons.githubusercontent.com/fortressdoorsoakland.com",
     "slug": "fortres-doors-oakland",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 516,
     "timeDay": 420,
     "timeWeek": 564,
     "timeMonth": 516,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 26
+    }
   },
   {
     "name": "Bugbuster Austin",
@@ -367,18 +373,20 @@
     "url": "https://advisepilotcincinnati.com/",
     "icon": "https://favicons.githubusercontent.com/advisepilotcincinnati.com",
     "slug": "advise-pilot-cincinnati",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 475,
     "timeDay": 363,
     "timeWeek": 553,
     "timeMonth": 475,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 25
+    }
   },
   {
     "name": "Audio Key Kansas",
@@ -421,19 +429,19 @@
     "url": "https://cinematronlosangeles.com/",
     "icon": "https://favicons.githubusercontent.com/cinematronlosangeles.com",
     "slug": "cinematron-los-angeles",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 485,
-    "timeDay": 340,
-    "timeWeek": 508,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 494,
+    "timeDay": 570,
+    "timeWeek": 544,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {
-      "2021-12-14": 32
+      "2021-12-14": 38
     }
   },
   {
@@ -495,18 +503,20 @@
     "url": "https://steelcroftphoenix.com/",
     "icon": "https://favicons.githubusercontent.com/steelcroftphoenix.com",
     "slug": "steel-croft-phoenix",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 460,
     "timeDay": 289,
     "timeWeek": 470,
     "timeMonth": 460,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 24
+    }
   },
   {
     "name": "Telephoniq Las Vegas",
@@ -603,19 +613,19 @@
     "url": "https://notariopublicosanantonio.com/",
     "icon": "https://favicons.githubusercontent.com/notariopublicosanantonio.com",
     "slug": "notario-publico-san-antonio",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 439,
-    "timeDay": 391,
-    "timeWeek": 512,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 435,
+    "timeDay": 347,
+    "timeWeek": 486,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {
-      "2021-12-14": 31
+      "2021-12-14": 38
     }
   },
   {
@@ -623,19 +633,19 @@
     "url": "https://inglesgeniesanantonio.com/",
     "icon": "https://favicons.githubusercontent.com/inglesgeniesanantonio.com",
     "slug": "ingles-genie-san-antonio",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 487,
-    "timeDay": 311,
-    "timeWeek": 525,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 482,
+    "timeDay": 318,
+    "timeWeek": 500,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2021-12-14": 31
+      "2021-12-14": 37
     }
   },
   {
@@ -679,18 +689,20 @@
     "url": "https://arquitectophoenix.com/",
     "icon": "https://favicons.githubusercontent.com/arquitectophoenix.com",
     "slug": "arquitecto-phoenix",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 478,
     "timeDay": 376,
     "timeWeek": 519,
     "timeMonth": 478,
     "timeYear": 478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 23
+    }
   },
   {
     "name": "Arquitecto Houston",
@@ -698,18 +710,18 @@
     "icon": "https://favicons.githubusercontent.com/arquitectohouston.com",
     "slug": "arquitecto-houston",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.83%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 578,
     "timeDay": 382,
     "timeWeek": 566,
     "timeMonth": 578,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2021-12-14": 30
+      "2021-12-14": 50
     }
   },
   {
@@ -717,19 +729,19 @@
     "url": "https://labfluenthouston.com/",
     "icon": "https://favicons.githubusercontent.com/labfluenthouston.com",
     "slug": "lab-fluent-houston",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 2210,
-    "timeDay": 2271,
-    "timeWeek": 3082,
-    "timeMonth": 2210,
-    "timeYear": 2210,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2438,
+    "timeDay": 5883,
+    "timeWeek": 3884,
+    "timeMonth": 2438,
+    "timeYear": 2438,
     "dailyMinutesDown": {
-      "2021-12-14": 29
+      "2021-12-14": 37
     }
   },
   {
@@ -738,17 +750,19 @@
     "icon": "https://favicons.githubusercontent.com/cinemusbend.com",
     "slug": "cinemusbend",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 486,
     "timeDay": 363,
     "timeWeek": 511,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 9
+    }
   },
   {
     "name": "Real Time Digital Kansas",
@@ -791,37 +805,39 @@
     "url": "https://tidyculturemesa.com/",
     "icon": "https://favicons.githubusercontent.com/tidyculturemesa.com",
     "slug": "tidy-culture-mesa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 423,
     "timeDay": 341,
     "timeWeek": 530,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 22
+    }
   },
   {
     "name": "Phone Bolt Colorado",
     "url": "https://phoneboltcolorado.com/",
     "icon": "https://favicons.githubusercontent.com/phoneboltcolorado.com",
     "slug": "phone-bolt-colorado",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 479,
-    "timeDay": 367,
-    "timeWeek": 495,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 473,
+    "timeDay": 330,
+    "timeWeek": 470,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-12-14": 28
+      "2021-12-14": 37
     }
   },
   {
@@ -865,19 +881,19 @@
     "url": "https://homeflixchill.com/",
     "icon": "https://favicons.githubusercontent.com/homeflixchill.com",
     "slug": "home-flix-chill",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 505,
-    "timeDay": 437,
-    "timeWeek": 586,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 500,
+    "timeDay": 393,
+    "timeWeek": 556,
+    "timeMonth": 500,
+    "timeYear": 500,
     "dailyMinutesDown": {
-      "2021-12-14": 27
+      "2021-12-14": 36
     }
   },
   {
@@ -994,72 +1010,78 @@
     "icon": "https://favicons.githubusercontent.com/syncphonyseattle.com",
     "slug": "syncphony-seattle",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 348,
     "timeDay": 314,
     "timeWeek": 375,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 8
+    }
   },
   {
     "name": "Seattle Magnitune",
     "url": "https://seattlemagnitune.com/",
     "icon": "https://favicons.githubusercontent.com/seattlemagnitune.com",
     "slug": "seattle-magnitune",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 513,
     "timeDay": 399,
     "timeWeek": 483,
     "timeMonth": 513,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 21
+    }
   },
   {
     "name": "Key Tuning Seattle",
     "url": "https://keytuningseattle.com/",
     "icon": "https://favicons.githubusercontent.com/keytuningseattle.com",
     "slug": "key-tuning-seattle",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 359,
     "timeDay": 362,
     "timeWeek": 381,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 20
+    }
   },
   {
     "name": "Lawn Workx",
     "url": "https://lawnworkx.com/",
     "icon": "https://favicons.githubusercontent.com/lawnworkx.com",
     "slug": "lawn-workx",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 394,
-    "timeDay": 419,
-    "timeWeek": 451,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 615,
+    "timeDay": 3845,
+    "timeWeek": 1303,
+    "timeMonth": 615,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2021-12-14": 26
+      "2021-12-14": 36
     }
   },
   {
@@ -1067,19 +1089,19 @@
     "url": "https://greenturfprofessionals.com/",
     "icon": "https://favicons.githubusercontent.com/greenturfprofessionals.com",
     "slug": "green-turf-professionals",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 370,
-    "timeDay": 346,
-    "timeWeek": 383,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 364,
+    "timeDay": 267,
+    "timeWeek": 359,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2021-12-14": 26
+      "2021-12-14": 36
     }
   },
   {
@@ -1105,37 +1127,39 @@
     "url": "https://gardenviewlandscapers.com/",
     "icon": "https://favicons.githubusercontent.com/gardenviewlandscapers.com",
     "slug": "garden-view-landscapers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 444,
     "timeDay": 350,
     "timeWeek": 417,
     "timeMonth": 444,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 19
+    }
   },
   {
     "name": "Green View AZ",
     "url": "https://greenviewaz.com/",
     "icon": "https://favicons.githubusercontent.com/greenviewaz.com",
     "slug": "green-view-az",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 326,
-    "timeDay": 310,
-    "timeWeek": 367,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 321,
+    "timeDay": 250,
+    "timeWeek": 345,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2021-12-14": 25
+      "2021-12-14": 36
     }
   },
   {
@@ -1143,19 +1167,19 @@
     "url": "https://landscape-topia.com/",
     "icon": "https://favicons.githubusercontent.com/landscape-topia.com",
     "slug": "landscape-topia",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 400,
-    "timeDay": 392,
-    "timeWeek": 399,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 393,
+    "timeDay": 294,
+    "timeWeek": 374,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {
-      "2021-12-14": 24
+      "2021-12-14": 36
     }
   },
   {
@@ -1200,18 +1224,18 @@
     "icon": "https://favicons.githubusercontent.com/thegreatgardens.com",
     "slug": "the-great-gardens",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.83%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 420,
     "timeDay": 401,
     "timeWeek": 415,
     "timeMonth": 420,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-12-14": 23
+      "2021-12-14": 48
     }
   },
   {
@@ -1219,37 +1243,39 @@
     "url": "https://environwork.com/",
     "icon": "https://favicons.githubusercontent.com/environwork.com",
     "slug": "environ-work",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 361,
     "timeDay": 304,
     "timeWeek": 431,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 18
+    }
   },
   {
     "name": "Concrete Tree",
     "url": "https://concretetree.com/",
     "icon": "https://favicons.githubusercontent.com/concretetree.com",
     "slug": "concrete-tree",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 453,
-    "timeDay": 456,
-    "timeWeek": 504,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 680,
+    "timeDay": 3980,
+    "timeWeek": 1379,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2021-12-14": 22
+      "2021-12-14": 35
     }
   },
   {
@@ -1293,19 +1319,19 @@
     "url": "https://hardstackpro.com/",
     "icon": "https://favicons.githubusercontent.com/hardstackpro.com",
     "slug": "hard-stack-pro",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 442,
-    "timeDay": 428,
-    "timeWeek": 508,
-    "timeMonth": 442,
-    "timeYear": 442,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 436,
+    "timeDay": 343,
+    "timeWeek": 477,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2021-12-14": 22
+      "2021-12-14": 34
     }
   },
   {
@@ -1314,17 +1340,19 @@
     "icon": "https://favicons.githubusercontent.com/concreteelementz.com",
     "slug": "concrete-elementz",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 461,
     "timeDay": 438,
     "timeWeek": 560,
     "timeMonth": 461,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 4
+    }
   },
   {
     "name": "AZ Brick Frames",
@@ -1332,18 +1360,18 @@
     "icon": "https://favicons.githubusercontent.com/azbrickframes.com",
     "slug": "az-brick-frames",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.82%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 438,
     "timeDay": 481,
     "timeWeek": 491,
     "timeMonth": 438,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2021-12-14": 21
+      "2021-12-14": 51
     }
   },
   {
@@ -1387,19 +1415,19 @@
     "url": "https://superior-surface.com/",
     "icon": "https://favicons.githubusercontent.com/superior-surface.com",
     "slug": "superior-surface",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 434,
-    "timeDay": 448,
-    "timeWeek": 482,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 457,
+    "timeDay": 805,
+    "timeWeek": 567,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2021-12-14": 20
+      "2021-12-14": 34
     }
   },
   {
@@ -1407,37 +1435,39 @@
     "url": "https://rigidgroundwork.com/",
     "icon": "https://favicons.githubusercontent.com/rigidgroundwork.com",
     "slug": "rigid-ground-work",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 458,
     "timeDay": 469,
     "timeWeek": 497,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 16
+    }
   },
   {
     "name": "The AZ Clean Expert",
     "url": "https://theazcleanexpert.com/",
     "icon": "https://favicons.githubusercontent.com/theazcleanexpert.com",
     "slug": "the-az-clean-expert",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 431,
-    "timeDay": 450,
-    "timeWeek": 479,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 661,
+    "timeDay": 3999,
+    "timeWeek": 1363,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2021-12-14": 19
+      "2021-12-14": 34
     }
   },
   {
@@ -1445,18 +1475,20 @@
     "url": "https://theweeklysqueakyclean.com/",
     "icon": "https://favicons.githubusercontent.com/theweeklysqueakyclean.com",
     "slug": "the-weekly-squeaky-clean",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 410,
     "timeDay": 323,
     "timeWeek": 378,
     "timeMonth": 410,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 15
+    }
   },
   {
     "name": "Sensitive Clean",
@@ -1481,19 +1513,19 @@
     "url": "https://bringbackclean.com/",
     "icon": "https://favicons.githubusercontent.com/bringbackclean.com",
     "slug": "bring-back-clean",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 446,
-    "timeDay": 414,
-    "timeWeek": 500,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 444,
+    "timeDay": 398,
+    "timeWeek": 485,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2021-12-14": 19
+      "2021-12-14": 34
     }
   },
   {
@@ -1519,19 +1551,19 @@
     "url": "https://isgreen-scene.com/",
     "icon": "https://favicons.githubusercontent.com/isgreen-scene.com",
     "slug": "is-green-scene",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 468,
-    "timeDay": 458,
-    "timeWeek": 574,
-    "timeMonth": 468,
-    "timeYear": 468,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 498,
+    "timeDay": 928,
+    "timeWeek": 677,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-12-14": 18
+      "2021-12-14": 34
     }
   },
   {
@@ -1576,18 +1608,18 @@
     "icon": "https://favicons.githubusercontent.com/alpha-landscaping.com",
     "slug": "alpha-landscaping",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.84%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 437,
     "timeDay": 433,
     "timeWeek": 473,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2021-12-14": 17
+      "2021-12-14": 47
     }
   },
   {
@@ -1606,26 +1638,28 @@
     "timeWeek": 368,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "Prism Carpet Cleaning",
     "url": "https://prismcarpetcleaningtx.com/",
     "icon": "https://favicons.githubusercontent.com/prismcarpetcleaningtx.com",
     "slug": "prism-carpet-cleaning",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 490,
-    "timeDay": 398,
-    "timeWeek": 555,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 482,
+    "timeDay": 325,
+    "timeWeek": 517,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2021-12-14": 16
+      "2021-12-14": 34
     }
   },
   {
@@ -1669,19 +1703,19 @@
     "url": "https://wellspringtampa.com/",
     "icon": "https://favicons.githubusercontent.com/wellspringtampa.com",
     "slug": "wellspring-tampa",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 478,
-    "timeDay": 491,
-    "timeWeek": 504,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 716,
+    "timeDay": 4061,
+    "timeWeek": 1395,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2021-12-14": 16
+      "2021-12-14": 34
     }
   },
   {
@@ -1689,18 +1723,20 @@
     "url": "https://tidyhelpersca.com/",
     "icon": "https://favicons.githubusercontent.com/tidyhelpersca.com",
     "slug": "tidy-helpers-ca",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 449,
     "timeDay": 451,
     "timeWeek": 524,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 12
+    }
   },
   {
     "name": "Cleanaholic",
@@ -1708,18 +1744,18 @@
     "icon": "https://favicons.githubusercontent.com/cleanaholictn.com",
     "slug": "cleanaholic",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.84%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 426,
     "timeDay": 335,
     "timeWeek": 403,
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2021-12-14": 15
+      "2021-12-14": 45
     }
   },
   {
@@ -1763,19 +1799,19 @@
     "url": "https://cleanwagonohio.com/",
     "icon": "https://favicons.githubusercontent.com/cleanwagonohio.com",
     "slug": "cleanwagon-ohio",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 442,
-    "timeDay": 487,
-    "timeWeek": 533,
+    "timeDay": 457,
+    "timeWeek": 519,
     "timeMonth": 442,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-12-14": 14
+      "2021-12-14": 33
     }
   },
   {
@@ -1802,18 +1838,18 @@
     "icon": "https://favicons.githubusercontent.com/scrubcleanseattle.com",
     "slug": "scrub-clean-seattle",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.85%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 442,
     "timeDay": 428,
     "timeWeek": 485,
     "timeMonth": 442,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-12-14": 13
+      "2021-12-14": 44
     }
   },
   {
@@ -1821,18 +1857,20 @@
     "url": "https://clean-standards.com/",
     "icon": "https://favicons.githubusercontent.com/clean-standards.com",
     "slug": "clean-standards",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 433,
     "timeDay": 477,
     "timeWeek": 527,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 10
+    }
   },
   {
     "name": "Clean Wise",
@@ -1857,19 +1895,19 @@
     "url": "https://tidytraincleaners.com/",
     "icon": "https://favicons.githubusercontent.com/tidytraincleaners.com",
     "slug": "tidy-train-cleaners",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 461,
-    "timeDay": 443,
-    "timeWeek": 498,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 557,
+    "timeDay": 1904,
+    "timeWeek": 856,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2021-12-14": 13
+      "2021-12-14": 33
     }
   },
   {
@@ -1895,19 +1933,19 @@
     "url": "https://dragueswellrepair.com/",
     "icon": "https://favicons.githubusercontent.com/dragueswellrepair.com",
     "slug": "dragues-well-repair",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 461,
-    "timeDay": 504,
-    "timeWeek": 501,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 454,
+    "timeDay": 383,
+    "timeWeek": 471,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-12-14": 12
+      "2021-12-14": 32
     }
   },
   {
@@ -1952,18 +1990,18 @@
     "icon": "https://favicons.githubusercontent.com/sprintfence.com",
     "slug": "sprint-fence",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 500,
     "timeDay": 464,
     "timeWeek": 521,
     "timeMonth": 500,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2021-12-14": 11
+      "2021-12-14": 42
     }
   },
   {
@@ -1971,37 +2009,39 @@
     "url": "https://theironandwood.com/",
     "icon": "https://favicons.githubusercontent.com/theironandwood.com",
     "slug": "the-iron-and-wood",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 440,
     "timeDay": 470,
     "timeWeek": 502,
     "timeMonth": 440,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 9
+    }
   },
   {
     "name": "Garden Gate Fence",
     "url": "https://gardengate-fence.com/",
     "icon": "https://favicons.githubusercontent.com/gardengate-fence.com",
     "slug": "garden-gate-fence",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 378,
-    "timeDay": 356,
-    "timeWeek": 403,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 611,
+    "timeDay": 3869,
+    "timeWeek": 1276,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2021-12-14": 10
+      "2021-12-14": 32
     }
   },
   {
@@ -2045,19 +2085,19 @@
     "url": "https://jacobsfloorstx.com/",
     "icon": "https://favicons.githubusercontent.com/jacobsfloorstx.com",
     "slug": "jacobs-floors",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 501,
-    "timeDay": 455,
-    "timeWeek": 514,
-    "timeMonth": 501,
-    "timeYear": 501,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 778,
+    "timeDay": 4627,
+    "timeWeek": 1549,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2021-12-14": 10
+      "2021-12-14": 32
     }
   },
   {
@@ -2084,18 +2124,18 @@
     "icon": "https://favicons.githubusercontent.com/patioproselpaso.com",
     "slug": "patio-pros-elpaso",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 373,
     "timeDay": 337,
     "timeWeek": 403,
     "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2021-12-14": 9
+      "2021-12-14": 39
     }
   },
   {
@@ -2103,18 +2143,20 @@
     "url": "https://boonwoodflooring.com/",
     "icon": "https://favicons.githubusercontent.com/boonwoodflooring.com",
     "slug": "boon-wood-flooring",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 436,
     "timeDay": 484,
     "timeWeek": 514,
     "timeMonth": 436,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 7
+    }
   },
   {
     "name": "Pestero Bug Fortworth",
@@ -2139,19 +2181,19 @@
     "url": "https://bugmodepestcontrol.com/",
     "icon": "https://favicons.githubusercontent.com/bugmodepestcontrol.com",
     "slug": "bugmode-pest-control",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 481,
-    "timeDay": 517,
-    "timeWeek": 517,
-    "timeMonth": 481,
-    "timeYear": 481,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 716,
+    "timeDay": 4032,
+    "timeWeek": 1396,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2021-12-14": 8
+      "2021-12-14": 32
     }
   },
   {
@@ -2177,19 +2219,19 @@
     "url": "https://crycketpestcontrol.com/",
     "icon": "https://favicons.githubusercontent.com/crycketpestcontrol.com",
     "slug": "crycket-pest-control",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 433,
-    "timeDay": 414,
-    "timeWeek": 512,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 431,
+    "timeDay": 392,
+    "timeWeek": 494,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2021-12-14": 7
+      "2021-12-14": 31
     }
   },
   {
@@ -2197,55 +2239,59 @@
     "url": "https://pestscoutpros.com/",
     "icon": "https://favicons.githubusercontent.com/pestscoutpros.com",
     "slug": "pest-scout-pros",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 474,
     "timeDay": 414,
     "timeWeek": 507,
     "timeMonth": 474,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 6
+    }
   },
   {
     "name": "Carpetomatic",
     "url": "https://carpetomatic.com/",
     "icon": "https://favicons.githubusercontent.com/carpetomatic.com",
     "slug": "carpetomatic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 438,
     "timeDay": 412,
     "timeWeek": 530,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 5
+    }
   },
   {
     "name": "Cleanaroo",
     "url": "https://cleanaroonv.com/",
     "icon": "https://favicons.githubusercontent.com/cleanaroonv.com",
     "slug": "cleanaroo",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 428,
-    "timeDay": 427,
-    "timeWeek": 504,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 661,
+    "timeDay": 3915,
+    "timeWeek": 1367,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2021-12-14": 7
+      "2021-12-14": 32
     }
   },
   {
@@ -2271,19 +2317,19 @@
     "url": "https://truewordtranslation.com/",
     "icon": "https://favicons.githubusercontent.com/truewordtranslation.com",
     "slug": "true-word-translation",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 443,
-    "timeDay": 457,
-    "timeWeek": 524,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 442,
+    "timeDay": 432,
+    "timeWeek": 509,
+    "timeMonth": 442,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-12-14": 6
+      "2021-12-14": 31
     }
   },
   {
@@ -2363,19 +2409,19 @@
     "url": "https://marblewoodca.com/",
     "icon": "https://favicons.githubusercontent.com/marblewoodca.com",
     "slug": "marble-wood",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 428,
-    "timeDay": 413,
-    "timeWeek": 508,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 453,
+    "timeDay": 789,
+    "timeWeek": 591,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-12-14": 5
+      "2021-12-14": 31
     }
   },
   {
@@ -2383,19 +2429,19 @@
     "url": "https://fresh-auto.com/",
     "icon": "https://favicons.githubusercontent.com/fresh-auto.com",
     "slug": "fresh-auto",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 469,
-    "timeDay": 480,
-    "timeWeek": 601,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 702,
+    "timeDay": 3964,
+    "timeWeek": 1457,
+    "timeMonth": 702,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2021-12-14": 5
+      "2021-12-14": 30
     }
   },
   {
@@ -2403,55 +2449,59 @@
     "url": "https://shinycarclean.com/",
     "icon": "https://favicons.githubusercontent.com/shinycarclean.com",
     "slug": "shiny-car-clean",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 465,
     "timeDay": 447,
     "timeWeek": 605,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 4
+    }
   },
   {
     "name": "Arborcare Ohio",
     "url": "https://arborcareohio.com/",
     "icon": "https://favicons.githubusercontent.com/arborcareohio.com",
     "slug": "arborcare-ohio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 469,
-    "timeWeek": 641,
-    "timeMonth": 489,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Everlast Deck",
-    "url": "https://everlastdeck.com/",
-    "icon": "https://favicons.githubusercontent.com/everlastdeck.com",
-    "slug": "everlast-deck",
     "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "99.74%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 440,
-    "timeDay": 439,
-    "timeWeek": 532,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 489,
+    "timeDay": 469,
+    "timeWeek": 641,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2021-12-14": 4
+    }
+  },
+  {
+    "name": "Everlast Deck",
+    "url": "https://everlastdeck.com/",
+    "icon": "https://favicons.githubusercontent.com/everlastdeck.com",
+    "slug": "everlast-deck",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 434,
+    "timeDay": 350,
+    "timeWeek": 498,
+    "timeMonth": 434,
+    "timeYear": 434,
+    "dailyMinutesDown": {
+      "2021-12-14": 31
     }
   },
   {
@@ -2459,19 +2509,19 @@
     "url": "https://my-drywall-guy.com/",
     "icon": "https://favicons.githubusercontent.com/my-drywall-guy.com",
     "slug": "my-drywall-guy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 455,
-    "timeDay": 426,
-    "timeWeek": 514,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 690,
+    "timeDay": 3967,
+    "timeWeek": 1388,
+    "timeMonth": 690,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2021-12-14": 3
+      "2021-12-14": 30
     }
   },
   {
@@ -2497,18 +2547,20 @@
     "url": "https://mrdrywalltx.com/",
     "icon": "https://favicons.githubusercontent.com/mrdrywalltx.com",
     "slug": "mr-drywall-tx",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 426,
     "timeDay": 425,
     "timeWeek": 506,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 3
+    }
   },
   {
     "name": "Wall Doctor Denver",
@@ -2516,18 +2568,18 @@
     "icon": "https://favicons.githubusercontent.com/walldoctordenver.com",
     "slug": "wall-doctor-denver",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 441,
     "timeDay": 445,
     "timeWeek": 528,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2021-12-14": 2
+      "2021-12-14": 33
     }
   },
   {
@@ -2535,19 +2587,19 @@
     "url": "https://speedyautoclean.com/",
     "icon": "https://favicons.githubusercontent.com/speedyautoclean.com",
     "slug": "speedy-auto-clean",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 479,
-    "timeDay": 426,
-    "timeWeek": 516,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 714,
+    "timeDay": 3978,
+    "timeWeek": 1392,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2021-12-14": 2
+      "2021-12-14": 30
     }
   },
   {
@@ -2609,10 +2661,10 @@
     "url": "https://tasktakeout.com/",
     "icon": "https://favicons.githubusercontent.com/tasktakeout.com",
     "slug": "task-take-out",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1522,
@@ -2620,7 +2672,9 @@
     "timeWeek": 1999,
     "timeMonth": 1522,
     "timeYear": 1522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Palm Valley Montessori",
@@ -2702,18 +2756,18 @@
     "icon": "https://favicons.githubusercontent.com/postcardpayments.com",
     "slug": "postcard-payments",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 530,
     "timeDay": 428,
     "timeWeek": 563,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2021-12-14": 1
+      "2021-12-14": 31
     }
   },
   {
