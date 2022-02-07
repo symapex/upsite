@@ -1,7 +1,7 @@
 url: https://wellyrepairs.com/
-status: up
-code: 200
-responseTime: 973
-lastUpdated: 2022-02-06T19:43:38.006Z
+status: down
+code: 500
+responseTime: 321
+lastUpdated: 2022-02-07T11:22:29.532Z
 startTime: Wed Nov 24 2021 01:48:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
