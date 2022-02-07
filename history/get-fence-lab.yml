@@ -1,7 +1,7 @@
 url: https://getfencelab.com/
-status: up
-code: 200
-responseTime: 860
-lastUpdated: 2022-02-06T20:02:02.015Z
+status: down
+code: 500
+responseTime: 317
+lastUpdated: 2022-02-07T11:25:34.447Z
 startTime: Wed Nov 24 2021 07:15:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
