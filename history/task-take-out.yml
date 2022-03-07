@@ -1,7 +1,7 @@
 url: https://tasktakeout.com/
-status: down
-code: 502
-responseTime: 28220
-lastUpdated: 2022-03-07T22:42:51.975Z
+status: up
+code: 200
+responseTime: 2345
+lastUpdated: 2022-03-07T22:52:31.284Z
 startTime: Wed Nov 24 2021 07:16:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
