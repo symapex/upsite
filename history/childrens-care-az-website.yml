@@ -1,7 +1,7 @@
 url: http://childrenscareaz.org/
-status: up
-code: 200
-responseTime: 575
-lastUpdated: 2023-01-09T23:13:08.376Z
+status: down
+code: 502
+responseTime: 7336
+lastUpdated: 2023-01-10T10:45:41.066Z
 startTime: Wed Nov 24 2021 07:16:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
